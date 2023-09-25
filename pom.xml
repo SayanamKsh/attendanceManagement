@@ -95,6 +95,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>attendance-management</finalName>
 	</build>
 
 </project>
